@@ -1,0 +1,16 @@
+{
+  "name": "skillreactor_project",
+  "version": "1.0.0",
+  "description": "My first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git-codecommit.eu-west-2.amazonaws.com/v1/repos/CryptoPortfolioTracker-eucarizan-49oaid5r"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
